@@ -20,7 +20,7 @@ const paolo = {
   code: [Javascript, Typescript, HTML, CSS,],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing a Discord clone"
 }
 ```
 
