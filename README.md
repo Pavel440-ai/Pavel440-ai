@@ -1,5 +1,5 @@
 <h2> Hi, I'm Paolo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.leonardo.ai/users/294ae679-db44-4137-852b-3839d39a01d0/generations/6ae9fb63-0a61-4902-9a31-5e9d8beac442/3D_Animation_Style_you_need_to_draw_a_cute_cartoonish_buff_you_3.jpg" width="230" >
+
 <p><em>FrontEnd Developer in <a href="http://www.unb.br">Ukraine</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 <div align="center">
