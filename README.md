@@ -1,6 +1,6 @@
 <h2> Hi, I'm Paolo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>FrontEnd Developer in <a href="http://www.unb.br">Ukraine</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>FrontEnd Developer in <a href="http://www.unb.br">Slovakia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   
 <div align="center">
 <a href="https://github.com/Pavel440-ai" target="_blank">
@@ -17,10 +17,7 @@
 ```javascript
 const paolo = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS,],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am doing a Discord clone"
+  code: [Javascript, Typescript, HTML, CSS, Python, PHP],
 }
 ```
 
